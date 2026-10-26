@@ -1,0 +1,6 @@
+{
+  "name": "CFG Pattern Recognizer",
+  "description": "A Compiler Design Project for Context-Free Grammar analysis, LL(1) predictive parsing with FIRST & FOLLOW sets, Chomsky Normal Form conversion, and parse tree visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
